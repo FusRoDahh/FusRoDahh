@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Liborio Di Stefano</h1>
-<h3 align="center">A passionate backend developer from Italy 🍕</h3>
+<h2 align="center">A passionate backend developer from Italy 🍕</h2>
 
-- 🔭 I’m currently working on [an online courses backend app](https://github.com/develhope/Java24-Team1-Spring)
+- 🔭 I’m currently working on [an online courses backend app]([https://github.com/develhope/Java24-Team1-Spring/tree/dev])
 
 - 🌱 I’m currently learning **Python**
 
