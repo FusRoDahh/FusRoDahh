@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Liborio Di Stefano</h1>
-<h3 align="center">A passionate backend developer from Italy ![image](https://github.com/FusRoDahh/FusRoDahh/assets/67054798/ab7fb22c-5754-40ef-82e0-30a3ce4ae1bc)
-</h3>
+<h3 align="center">A passionate backend developer from Italy 🇮🇹</h3>
 
 - 🔭 I’m currently working on [an online courses backend app](https://github.com/develhope/Java24-Team1-Spring)
 
