@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Liborio Di Stefano</h1>
-<h3 align="center">A passionate backend developer from Italy</h3>
+<h3 align="center">A passionate backend developer from Italy 🇮🇹</h3>
 
 - 🔭 I’m currently working on [an online courses backend app](https://github.com/develhope/Java24-Team1-Spring)
 
@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **liborio0distefano@gmail.com**
 
-- ⚡ Fun fact **Peregrino Tuc was, in fact, the count of the Shire.**
+- ⚡ Fun fact: **Peregrino Tuc was, in fact, the count of the Shire.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
