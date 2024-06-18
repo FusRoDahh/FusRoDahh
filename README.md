@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [an online courses backend app](https://github.com/develhope/Java24-Team1-Spring/tree/dev)
 
-- 🌱 I’m currently learning **Python**
+- 🌱 I’m currently learning **C# and .NET**
 
 - 📫 How to reach me **liborio0distefano@gmail.com**
 
